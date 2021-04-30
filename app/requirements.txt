@@ -74,7 +74,7 @@ pytz==2019.1
 PyYAML==5.1
 requests==2.11.1
 requests-toolbelt==0.7.0
-rsa==4.0
+rsa==4.7
 scikit-learn==0.21.1
 scipy==1.2.1
 six==1.12.0
